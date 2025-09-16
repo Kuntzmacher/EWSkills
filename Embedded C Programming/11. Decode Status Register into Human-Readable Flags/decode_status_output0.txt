@@ -1,0 +1,3 @@
+Power On
+Tx Ready
+Rx Ready

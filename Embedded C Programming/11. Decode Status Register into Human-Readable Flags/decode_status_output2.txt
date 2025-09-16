@@ -1,0 +1,8 @@
+Power On
+Error
+Tx Ready
+Rx Ready
+Overheat
+Undervoltage
+Timeout
+Reserved
