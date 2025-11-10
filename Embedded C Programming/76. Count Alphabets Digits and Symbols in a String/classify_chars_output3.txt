@@ -1,0 +1,3 @@
+Alphabets = 0
+Digits = 2
+Symbols = 0

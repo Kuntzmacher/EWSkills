@@ -1,0 +1,2 @@
+Channel: 12
+ADC Value: 1013

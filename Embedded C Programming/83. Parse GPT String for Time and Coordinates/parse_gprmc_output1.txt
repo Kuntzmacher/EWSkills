@@ -1,0 +1,3 @@
+Time: 08:35:59
+Latitude: 3745.678 N
+Longitude: 12227.890 W

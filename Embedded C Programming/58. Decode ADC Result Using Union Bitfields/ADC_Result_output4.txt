@@ -1,0 +1,2 @@
+Channel: 7
+ADC Value: 4095

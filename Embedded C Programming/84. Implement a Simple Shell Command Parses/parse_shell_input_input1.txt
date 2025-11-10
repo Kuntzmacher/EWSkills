@@ -1,0 +1,1 @@
+  uart   config 9600 8N1 

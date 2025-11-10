@@ -1,0 +1,3 @@
+Alphabets = 9
+Digits = 2
+Symbols = 2

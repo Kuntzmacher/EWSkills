@@ -1,0 +1,3 @@
+Alphabets = 5
+Digits = 3
+Symbols = 2
