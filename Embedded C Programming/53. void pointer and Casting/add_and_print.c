@@ -1,0 +1,27 @@
+#include <stdio.h>
+
+void add_and_print(void *a, void *b, char type) {
+  // Write your logic here using type casting
+  if (type == 'i') {
+    printf("%d", *(int *)a + *(int *)b);
+  } else if (type == 'f') {
+    printf("%.1f", *(float *)a + *(float *)b);
+  }
+}
+
+int main() {
+  char type;
+  scanf(" %c", &type);
+
+  if (type == 'i') {
+    int x, y;
+    scanf("%d %d", &x, &y);
+    add_and_print(&x, &y, type);
+  } else if (type == 'f') {
+    float x, y;
+    scanf("%f %f", &x, &y);
+    add_and_print(&x, &y, type);
+  }
+
+  return 0;
+}
